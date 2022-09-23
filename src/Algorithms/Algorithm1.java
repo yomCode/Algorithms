@@ -1,5 +1,6 @@
 package Algorithms;
 
+import java.util.ArrayList;
 import java.util.List;
 
 public class Algorithm1 {
@@ -15,6 +16,9 @@ public class Algorithm1 {
         for (int num : arr) {
             sum += num;
         }
+
+        List<Integer> result = new ArrayList<>();
+
 
         System.out.println(sum);
 
