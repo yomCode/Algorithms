@@ -1,10 +1,9 @@
 package Algorithms;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
-public class Algorithm2 {
+public class ScoresArray {
     public static void main(String[] args) {
 
         List<Integer> a = new ArrayList<>();

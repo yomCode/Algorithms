@@ -3,7 +3,7 @@ package Algorithms;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Algorithm1 {
+public class ArraySum {
     public static void main(String[] args) {
 
         //Given an array of integers, find the sum of its elements.
