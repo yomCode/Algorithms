@@ -9,31 +9,7 @@ import java.util.Collections;
 
 public class Algorithm6 {
     public static void main(String[] args) {
-//    String str = "abbcdefg";
-//    String [] splitStr = str.split("");
-//        Set<String> unique = new HashSet<>();
-//
-//        for(String c : splitStr){
-//            unique.add(c);
-//        }
-//
-//       boolean result = true;
-//
-//    if(splitStr.length == unique.size()){
-//        result = true;
-//    }
-//        else{
-//            result = false;
-//    }
-//
-//        System.out.println(result);
-//        int[] n = {1, 2, 2};
-//        int sum = 0;
-//        for (int i = 0; i < n.length; i++) {
-//            int num = n[i];
-//            sum += Math.pow(num, 2);
-//        }
-//        System.out.println(sum);
+
 
 //        int amount = 290;
 //
@@ -84,23 +60,6 @@ public class Algorithm6 {
 //
 //        }
 
-        ArrayList<Integer> arr = new ArrayList<>();
-
-        arr.add(2);
-        arr.add(4);
-        arr.add(5);
-        arr.add(1);
-        arr.add(3);
-
-        System.out.println(arr);
-       Collections.sort(arr);
-        System.out.println(arr);
-        int[] newArr = {0,0};
-
-        newArr[0] = arr.get(0);
-        newArr[1] = arr.get(arr.size()-1);
-
-        System.out.println(Arrays.toString(newArr));
 
     }
 }
