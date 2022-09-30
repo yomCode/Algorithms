@@ -60,7 +60,5 @@ public class Algorithm6 {
 //
 //        }
 
-
-    }
 }
 
