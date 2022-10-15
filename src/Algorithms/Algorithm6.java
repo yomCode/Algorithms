@@ -1,64 +1,35 @@
-package Algorithms;
-
-
-//import java.util.Set;
-import java.lang.*;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collections;
-
-public class Algorithm6 {
-    public static void main(String[] args) {
-
-
-//        int amount = 290;
-//
-//        double hundreds = 0;
-//        double fifties = 0;
-//        double twenties = 0;
-//
-//        ArrayList<Integer> arr = new ArrayList<Integer>(Arrays.asList(0, 0, 0));
-//
-//        while(amount>= 40 && amount <= 1000){
-//            hundreds = amount / 100;
-//            arr.add((int)hundreds);
-////                arr.get(0) = (int) hundreds;
-//            amount = (amount % 100) ;
+//package Algorithms;
 //
 //
-//            fifties =amount / 50.0;
-//            arr.add((int)fifties);
+////import java.util.Set;
+//import java.lang.*;
 //
-//             amount = (amount % 50)*100;
+//public class Algorithm6 {
+//    public static void main(String[] args) {
 //
-//            twenties = amount / 20.0;
-//            arr.add((int)twenties);
+//        Integer[][] arr = {{1, 2, 9}, {4, 4, 6}, {7, 8, 9}};
 //
+//
+//        int rowCount = 0;
+//        Integer leftDiagonal = 0;
+//
+//
+//            for (int i = 0; i < arr[rowCount].length-1; i++) {
+//                int n = 0;
+//                while (n < arr[rowCount].length) {
+//                    leftDiagonal += arr[rowCount][n];
+//
+//                    n++;
+//
+//                }
+//
+//                break;
+//
+//            }
+//
+//            System.out.println(leftDiagonal);
 //
 //        }
 //
+//}
 //
-//        System.out.println(arr);
-
-//        double amount = 350;
-//        int numOf100s = 0;
-//
-//        int numOf100s = (int) (amount/100);
-//        amount = amount - (numOf100s * 100);
-//
-//        int numOf50s = (int) (amount / 50);
-//        amount = Math.abs(amount - (numOf50s *100));
-//
-//        int numOf20s = (int) (amount/20);
-//
-//        System.out.print(numOf100s + " ");
-//        System.out.print(numOf50s + " ");
-//        System.out.print(numOf20s);
-
-//        while(true){
-//
-//
-//        }
-
-}
-
