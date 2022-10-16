@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd4fa16b-36a9-4705-9ead-dc42d8189b13" name="Changes" comment="Algorithms updates">
-      <change afterPath="$PROJECT_DIR$/src/Algorithms/JewelsAndStones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithms/ThreeSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Algorithm6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithms/Algorithm6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Algorithms/JewelsAndStones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithms/JewelsAndStones.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664568896288</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Algorithms updates">
+      <created>1665865882589</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1665865882589</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -119,11 +126,6 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Algorithms/Algorithm6.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
           <option name="timeStamp" value="2" />

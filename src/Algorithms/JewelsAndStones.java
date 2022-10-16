@@ -18,9 +18,8 @@ public class JewelsAndStones {
         Integer jewelsCounter = 0;
         for(int i = 0; i < stones.length(); i++){
 
-            if(jewels.contains(String.valueOf(stones.charAt(i)))){
-                jewelsCounter++;
-            }
+           if (jewels.contains(String.valueOf(stones.charAt(i))))
+                    jewelsCounter++;
 
         }
         System.out.println(jewelsCounter);
