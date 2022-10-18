@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd4fa16b-36a9-4705-9ead-dc42d8189b13" name="Changes" comment="Algorithms updates">
-      <change afterPath="$PROJECT_DIR$/src/Algorithms/ThreeSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/JewelsAndStones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithms/JewelsAndStones.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Algorithms/Algorithm6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithms/Algorithm6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
